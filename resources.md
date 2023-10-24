@@ -80,6 +80,12 @@ https://www.youtube.com/@AwesomeOpenSource
 * VS Code
 * Git - souce code control/versioning
 
+## Network Simulators
+* GNS3
+* Packet Tracer
+* EVE-ng
+  
+
 
 
 
